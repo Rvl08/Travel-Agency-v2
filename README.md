@@ -166,17 +166,3 @@ import { staggerContainer } from '@/lib/animations';
 Alias ini dikonfigurasi di `vite.config.ts` dan `tsconfig.app.json`.
 
 ---
-
-## 📄 Lisensi
-
-Proyek ini dibuat untuk keperluan edukasi dan portofolio.
-
----
-
-<div align="center">
-
-Dibuat dengan ❤️ menggunakan **React** + **Vite** + **GSAP**
-
-*"Dari sabang sampai merauke, setiap sudut nusantara menyimpan cerita yang menunggu untuk ditemukan."*
-
-</div>
